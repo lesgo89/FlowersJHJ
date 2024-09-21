@@ -9,13 +9,8 @@ var lyricsData = [
   { text: "Te extraño y espero con ansias", time: 54 },
   { text: "el día en que estemos juntos de nuevo", time: 59 },
   { text: "Mi amor Nadia.", time: 67 },
-
 ];
 
-//Como las flores que tanto te gustan, mi amor por ti ilumina cada día, aunque no estés aquí. 
-  //    Te extraño profundamente, esperando el momento en que volvamos a florecer juntos
-//"Como en la canción Yellow, mi amor por ti sigue brillando. Te extraño y espero con ansias el día en que estemos juntos de nuevo, Nadia.
-//Atte; Jean C."
 // Animar las letras
 function updateLyrics() {
   var time = Math.floor(audio.currentTime);
