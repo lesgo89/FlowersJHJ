@@ -4,12 +4,15 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Como en la canción Yellow", time: 41 },
-  { text: "mi amor por ti sigue brillando.", time: 47 },
-  { text: "Te extraño y espero con ansias", time: 54 },
-  { text: "el día en que estemos juntos de nuevo", time: 59 },
-  { text: "Mi amor Nadia.", time: 67 },
-
+  { text: "Como en la canción ", time: 12 },
+  { text: "No puedo evitar ser sonreír al verte ", time: 18 },
+  { text: "calidez al sentirte ", time: 22 },
+  { text: "y sueños al tenerte cerca ami ", time: 27 },
+  { text: "es un corazón que late por ti ", time: 32 },
+  { text: "Princesa amazonica ", time: 35 },
+  { text: "Feliz día amarillo  ", time: 39 },
+  { text: "Como el sol que brilla  ", time: 40 },
+  { text: "tu brillas tan lindo  ", time: 45 },
 ];
 
 //Como las flores que tanto te gustan, mi amor por ti ilumina cada día, aunque no estés aquí. 
